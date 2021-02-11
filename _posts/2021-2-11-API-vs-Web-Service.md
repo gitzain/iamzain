@@ -1,8 +1,10 @@
-# API vs Web Service
-
+---
+layout: post
+title: API vs Web Service
 Created: Jan 23, 2020 11:33 AM
 Tags: published-iamzain.com
 Updated: Jan 23, 2020 2:03 PM
+---
 
 ![https://iamzain.com/wp-content/uploads/2017/04/api-vs-web-service-868x651.png](https://iamzain.com/wp-content/uploads/2017/04/api-vs-web-service-868x651.png)
 
