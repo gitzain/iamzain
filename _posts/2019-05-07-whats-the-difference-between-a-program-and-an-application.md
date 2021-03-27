@@ -1,6 +1,9 @@
 ---
 layout: post
-title: 
+title: test
+lang: en
+ref: test
+image: true
 ---
 # What’s the difference between a program, an application and software?
 
