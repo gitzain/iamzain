@@ -48,18 +48,17 @@ logo: /assets/icons/apple-icon-144x144.png
 dark_theme: false
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: Zain Khan
+  bio: Hi, I'm Zain, the author of this blog. Nice to meet you!
   image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
+  url: https://iamzain.com
+  email: hello@iamzain.com
+  twitter: twitzain
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/autumn
-  medium: https://medium.com/@connor_baer
+  twitter: https://twitter.com/twitzain
+  instagram: https://instagram.com/instagramzain
+  github: https://github.com/gitzain
 
 version: 4.0.0
 
